@@ -121,7 +121,7 @@ Hinkes-Jones, L. (2013, November 25) The Real Reason Music's Gotten So Loud. *Th
 
 
 ## Code
-Horton, L. (2021). #TidyTuesday 2021-09-14 Billboard Top 100. GitHub repository, https://github.com/laurencehorton/tidytuesday/2021-09-29-billboard-top-100
+Horton, L. (2021). #TidyTuesday 2021-09-14 Billboard Top 100. GitHub repository, https://github.com/laurencehorton/billboard-top-100
 published under Creative Commons Zero v1.0 Universal Licence
 
 
